@@ -1,0 +1,17 @@
+# --- Sensitive configuration ---
+db.php
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+
+# --- Logs ---
+*.log
+
+# --- IDE folders ---
+.vscode/
+.idea/
+
+# --- Temporary files ---
+*.tmp
+*.swp
